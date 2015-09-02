@@ -9,4 +9,3 @@ $(function() {
     $('#container')[0]
   );
 });
-
